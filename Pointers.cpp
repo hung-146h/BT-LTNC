@@ -115,5 +115,5 @@ int main() {
 	trim_right(str);
 	cout << str << "\n";
 
-	return 0;
+	// D câu hỏi trắc nghiệm 1 ii; 2 iii; 3 ii iii; 4 ii iii; 5 iv; 6 i; 7 iii;
 }
